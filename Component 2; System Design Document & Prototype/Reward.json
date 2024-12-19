@@ -1,0 +1,38 @@
+[
+    {
+        "RewardID": 1,
+        "RewardName": "Free Coffee",
+        "Description": "One free coffee",
+        "PointsRequired": 50
+    },
+    {
+        "RewardID": 2,
+        "RewardName": "Discount 5.00 Pounds",
+        "Description": "5.00 Pounds off on your next shop",
+        "PointsRequired": 100
+    },
+    {
+        "RewardID": 3,
+        "RewardName": "70 Bonus Points",
+        "Description": "70 Bonus Points, when you buy Milk",
+        "PointsRequired": 70
+    },
+    {
+        "RewardID": 4,
+        "RewardName": "150 Bonus Points",
+        "Description": "150 Bonus Points, when you buy Bread",
+        "PointsRequired": 150
+    },
+    {
+        "RewardID": 5,
+        "RewardName": "Discount 7.50 Pounds",
+        "Description": "7.50 Pounds off on your next shop",
+        "PointsRequired": 125
+    },
+    {
+        "RewardID": 6,
+        "RewardName": "Free Snack",
+        "Description": "One free snack",
+        "PointsRequired": 60
+    }
+]

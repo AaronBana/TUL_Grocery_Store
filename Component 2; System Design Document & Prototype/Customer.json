@@ -1,0 +1,110 @@
+[
+    {
+        "CustomerID": 1,
+        "FirstName": "Jacob",
+        "LastName": "Smith",
+        "Email": "jacob.s@gmail.com",
+        "PhoneNumber": "08751591569",
+        "Address": "132 Victoria Avenue",
+        "CardNumber": "5500 7434 9215 1617",
+        "IssueDate": "11/01/2024",
+        "ExpiryDate": "11/01/2029",
+        "TotalPoints": 0
+    },
+    {
+        "CustomerID": 2,
+        "FirstName": "Sophia",
+        "LastName": "Polikarpova",
+        "Email": "sophia.p@gmail.com",
+        "PhoneNumber": "09581257823",
+        "Address": "18 Station Road",
+        "CardNumber": "5415 8212 1094 6635",
+        "IssueDate": "29/01/2024",
+        "ExpiryDate": "29/01/2029",
+        "TotalPoints": 0
+    },
+    {
+        "CustomerID": 3,
+        "FirstName": "Mason",
+        "LastName": "Taylor",
+        "Email": "mason.t@gmail.com",
+        "PhoneNumber": "05719875872",
+        "Address": "4 Elmwood Grove",
+        "CardNumber": "5122 0207 7562 5221",
+        "IssueDate": "19/03/2024",
+        "ExpiryDate": "19/03/2029",
+        "TotalPoints": 0
+    },
+    {
+        "CustomerID": 4,
+        "FirstName": "Emma",
+        "LastName": "Tang",
+        "Email": "emma.t@gmail.com",
+        "PhoneNumber": "07581578575",
+        "Address": "63 Ruskin Avenue",
+        "CardNumber": "5310 3327 7196 9210",
+        "IssueDate": "12/04/2024",
+        "ExpiryDate": "12/04/2029",
+        "TotalPoints": 0
+    },
+    {
+        "CustomerID": 5,
+        "FirstName": "Ethan",
+        "LastName": "Brown",
+        "Email": "ethan.b@gmail.com",
+        "PhoneNumber": "01875189572",
+        "Address": "215 Manor Road",
+        "CardNumber": "5475 3775 8158 6283",
+        "IssueDate": "16/07/2024",
+        "ExpiryDate": "16/07/2029",
+        "TotalPoints": 0
+    },
+    {
+        "CustomerID": 6,
+        "FirstName": "Isabella",
+        "LastName": "Davies",
+        "Email": "isabella.d@gmail.com",
+        "PhoneNumber": "09753572471",
+        "Address": "549 Oak Street",
+        "CardNumber": "5200 8448 3216 8569",
+        "IssueDate": "13/09/2024",
+        "ExpiryDate": "13/09/2029",
+        "TotalPoints": 0
+    },
+    {
+        "CustomerID": 7,
+        "FirstName": "Noah",
+        "LastName": "Evans",
+        "Email": "noah.e@gmail.com",
+        "PhoneNumber": "07819751676",
+        "Address": "95 Blackhorse Road",
+        "CardNumber": "5442 9966 7491 0587",
+        "IssueDate": "24/09/2024",
+        "ExpiryDate": "24/09/2029",
+        "TotalPoints": 0
+    },
+    {
+        "CustomerID": 8,
+        "FirstName": "Olivia",
+        "LastName": "Wilson",
+        "Email": "olivia.w@gmail.com",
+        "PhoneNumber": "07215975792",
+        "Address": "172 Westfield Avenue",
+        "CardNumber": "5323 7552 9208 6392",
+        "IssueDate": "23/10/2024",
+        "ExpiryDate": "23/10/2029",
+        "TotalPoints": 0
+    },
+    {
+        "CustomerID": 9,
+        "FirstName": "William",
+        "LastName": "Thomas",
+        "Email": "william.t@gmail.com",
+        "PhoneNumber": "07685263145",
+        "Address": "385 Elm Street",
+        "CardNumber": "5246 4355 2544 4585",
+        "IssueDate": "04/12/2024",
+        "ExpiryDate": "04/12/2029",
+        "TotalPoints": 0
+    }
+]

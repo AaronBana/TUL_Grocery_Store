@@ -1,0 +1,65 @@
+[
+    {
+        "TransactionID": 1,
+        "CustomerID": 1,
+        "TransactionDate": "18/12/2024",
+        "TotalAmount": 125.0,
+        "PointsEarned": 125
+    },
+    {
+        "TransactionID": 2,
+        "CustomerID": 2,
+        "TransactionDate": "18/12/2024",
+        "TotalAmount": 140.0,
+        "PointsEarned": 140
+    },
+    {
+        "TransactionID": 3,
+        "CustomerID": 3,
+        "TransactionDate": "18/12/2024",
+        "TotalAmount": 115.0,
+        "PointsEarned": 115
+    },
+    {
+        "TransactionID": 4,
+        "CustomerID": 4,
+        "TransactionDate": "18/12/2024",
+        "TotalAmount": 280.0,
+        "PointsEarned": 280
+    },
+    {
+        "TransactionID": 5,
+        "CustomerID": 5,
+        "TransactionDate": "18/12/2024",
+        "TotalAmount": 130.0,
+        "PointsEarned": 130
+    },
+    {
+        "TransactionID": 6,
+        "CustomerID": 6,
+        "TransactionDate": "19/12/2024",
+        "TotalAmount": 215.0,
+        "PointsEarned": 215
+    },
+    {
+        "TransactionID": 7,
+        "CustomerID": 7,
+        "TransactionDate": "19/12/2024",
+        "TotalAmount": 265.0,
+        "PointsEarned": 265
+    },
+    {
+        "TransactionID": 8,
+        "CustomerID": 8,
+        "TransactionDate": "19/12/2024",
+        "TotalAmount": 145.0,
+        "PointsEarned": 145
+    },
+    {
+        "TransactionID": 9,
+        "CustomerID": 9,
+        "TransactionDate": "19/12/2024",
+        "TotalAmount": 120.0,
+        "PointsEarned": 120
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "product_id": "1",
+        "name": "Milk",
+        "price": 1.5,
+        "quantity": 25
+    },
+    {
+        "product_id": "2",
+        "name": "Bread",
+        "price": 1.0,
+        "quantity": 25
+    },
+    {
+        "product_id": "3",
+        "name": "Eggs",
+        "price": 2.5,
+        "quantity": 20
+    },
+    {
+        "product_id": "4",
+        "name": "Butter",
+        "price": 2.0,
+        "quantity": 30
+    },
+    {
+        "product_id": "5",
+        "name": "Chocolate Bar",
+        "price": 0.75,
+        "quantity": 45
+    },
+    {
+        "product_id": "6",
+        "name": "Crisps",
+        "price": 1.25,
+        "quantity": 45
+    },
+    {
+        "product_id": "7",
+        "name": "Soda Can",
+        "price": 1.0,
+        "quantity": 40
+    },
+    {
+        "product_id": "8",
+        "name": "Toothpaste",
+        "price": 3.0,
+        "quantity": 50
+    },
+    {
+        "product_id": "9",
+        "name": "Shampoo",
+        "price": 4.5,
+        "quantity": 40
+    },
+    {
+        "product_id": "10",
+        "name": "Packet of Biscuits",
+        "price": 2.0,
+        "quantity": 30
+    }
+]
