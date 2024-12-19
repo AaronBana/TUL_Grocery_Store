@@ -1,4 +1,4 @@
 Python Code for TUL System Design Group Project, Design of a Grocery Store System.
-This includes databases of the Inventory System, the Checkout System, and the Loyalty Card System.
-Furthermore, Python codes of each system and one massive code combining all three systems.
+This includes Microsoft Access databases for an Inventory System, a Checkout System, and a Loyalty Card System.
+Furthermore, included are Python codes for each individual system and one larger code combining all three sub-systems.
 With all the data saved and exported in JSON Files.
